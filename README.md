@@ -1,1 +1,1 @@
-###  I converted my pocedural PHP projects into PHP OOP.
+###  I converted my procedural PHP projects into PHP OOP.
